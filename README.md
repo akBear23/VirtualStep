@@ -1,2 +1,2 @@
-# VituralStep
+# VirtualStep
 SoICT Hackathon 2023
